@@ -37,7 +37,7 @@ enter = Entry(Ck)
 enter.pack()
 butt = Button(Ck, text="SHOW", command=stock)
 butt.pack()
-lab = Label(Ck, text="", textvariable=mytext)
+lab = Label(Ck, text="", textvariable=mytext
 lab.pack(fill="both", expand="yes")
 lab2 = Label(Ck, text="", textvariable=mytext1)
 lab2.pack()
